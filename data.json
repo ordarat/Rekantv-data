@@ -6,13 +6,15 @@
   "settings": {
     "privacyPolicyUrl": "https://sites.google.com/view/rekantv-privacy/home"
   },
+  "socialLinks": {
+    "whatsapp": "https://wa.me/9647508615141",
+    "viber": "viber://chat?number=%2B9647508615141",
+    "telegram": "https://t.me/+9647508615141",
+    "tiktok": "https://www.tiktok.com/"
+  },
   "sliderAds": [
     {
-      "image": "https://via.placeholder.com/800x400.png?text=Slider+Ad+1",
-      "link": "https://t.me/your_channel"
-    },
-    {
-      "image": "https://via.placeholder.com/800x400.png?text=Slider+Ad+2",
+      "image": "https://via.placeholder.com/800x400.png?text=Ad+1",
       "link": "https://example.com"
     }
   ],
@@ -22,27 +24,19 @@
     "duration": 10,
     "ads": [
       {
-        "image": "https://via.placeholder.com/300x250.png?text=Popup+Ad",
+        "image": "https://via.placeholder.com/300x250.png?text=Popup",
         "link": "https://example.com"
       }
     ]
   },
   "channels": [
     {
-      "name": "rekan sports 1",
-      "category": "sports",
-      "url": "http://a83967.xyz:8080/971424234/942337642/380482",
-      "logo": "https://i.postimg.cc/zvm19BGT/1783989936084.png",
+      "name": "ڕووداو",
+      "category": "هەواڵ",
+      "url": "https://link.m3u8",
+      "logo": "https://logo.png",
       "order": 1,
-      "geoRestriction": "iraq"
-    },
-    {
-      "name": "Local Sports",
-      "category": "Sports",
-      "url": "https://example.com/sports.m3u8",
-      "logo": "https://example.com/sports_logo.png",
-      "order": 2,
-      "geoRestriction": "iraq"
+      "geoRestriction": "all"
     }
   ]
 }
