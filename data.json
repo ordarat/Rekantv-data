@@ -15,7 +15,7 @@
   "sliderAds": [
     {
       "image": "https://i.postimg.cc/hjPsTrR8/1784159743764.png",
-      "link": "https://example.com"
+      "link": "https://i.postimg.cc/hjPsTrR8/1784159743764.png"
     }
   ],
   "mainAd": {
@@ -25,7 +25,7 @@
     "ads": [
       {
         "image": "https://via.placeholder.com/300x250.png?text=Popup",
-        "link": "https://example.com"
+        "link": ""
       }
     ]
   },
