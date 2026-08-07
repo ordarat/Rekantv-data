@@ -1,0 +1,48 @@
+{
+  "appInfo": {
+    "latestVersion": "1.1.2",
+    "updateUrl": "https://play.google.com/store/apps/details?id=com.ibrahim.rekantv"
+  },
+  "settings": {
+    "privacyPolicyUrl": "https://sites.google.com/view/rekantv-privacy/home"
+  },
+  "sliderAds": [
+    {
+      "image": "https://via.placeholder.com/800x400.png?text=Slider+Ad+1",
+      "link": "https://t.me/your_channel"
+    },
+    {
+      "image": "https://via.placeholder.com/800x400.png?text=Slider+Ad+2",
+      "link": "https://example.com"
+    }
+  ],
+  "mainAd": {
+    "initialDelay": 10,
+    "interval": 60,
+    "duration": 10,
+    "ads": [
+      {
+        "image": "https://via.placeholder.com/300x250.png?text=Popup+Ad",
+        "link": "https://example.com"
+      }
+    ]
+  },
+  "channels": [
+    {
+      "name": "Kurdsat",
+      "category": "Kurdish",
+      "url": "https://example.com/kurdsat.m3u8",
+      "logo": "https://example.com/logo.png",
+      "order": 1,
+      "geoRestriction": "all"
+    },
+    {
+      "name": "Local Sports",
+      "category": "Sports",
+      "url": "https://example.com/sports.m3u8",
+      "logo": "https://example.com/sports_logo.png",
+      "order": 2,
+      "geoRestriction": "iraq"
+    }
+  ]
+}
