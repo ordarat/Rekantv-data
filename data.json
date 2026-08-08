@@ -31,59 +31,659 @@
   },
   "channels": [
     {
-      "name": "rekan sports 2",
-      "category": "sports",
-      "url": "http://a83967.xyz:8080/971424234/942337642/380480",
-      "logo": "https://i.postimg.cc/YSwYqND6/1783989944948.png",
+      "name": "Rekan sport 1",
+      "category": "وەرزشی",
+      "url": "http://a83967.xyz:8080/971424234/942337642/380482",
+      "logo": "https://i.postimg.cc/zvm19BGT/1783989936084.png",
       "order": 1,
       "geoRestriction": "iraq"
     },
     {
-      "name": "rekan sports 3",
-      "category": "sports",
-      "url": "http://a83967.xyz:8080/971424234/942337642/380478",
-      "logo": "https://i.postimg.cc/hPzdLZHb/1783989952407.png",
+      "name": "Rekan sports 2",
+      "category": "وەرزشی",
+      "url": "http://a83967.xyz:8080/971424234/942337642/380480",
+      "logo": "https://i.postimg.cc/YSwYqND6/1783989944948.png",
       "order": 2,
       "geoRestriction": "iraq"
     },
     {
-      "name": "rekan sports 4",
-      "category": "sports",
-      "url": "http://a83967.xyz:8080/971424234/942337642/380476",
-      "logo": "https://i.postimg.cc/R0R6SkHS/1783989964414.png",
+      "name": "Rekan sports 3",
+      "category": "وەرزشی",
+      "url": "http://a83967.xyz:8080/971424234/942337642/380478",
+      "logo": "https://i.postimg.cc/hPzdLZHb/1783989952407.png",
       "order": 3,
       "geoRestriction": "iraq"
     },
     {
-      "name": "rekan sports 5",
-      "category": "sports",
-      "url": "http://a83967.xyz:8080/971424234/942337642/380475",
-      "logo": "https://i.postimg.cc/MT3nR1tH/1783989973816.png",
+      "name": "Rekan sports 4",
+      "category": "وەرزشی",
+      "url": "http://a83967.xyz:8080/971424234/942337642/380476",
+      "logo": "https://i.postimg.cc/R0R6SkHS/1783989964414.png",
       "order": 4,
       "geoRestriction": "iraq"
     },
     {
-      "name": "Ava sports",
-      "category": "sports",
-      "url": "https://proxy.eylog.co.uk/142.132.194.230:1935/live/MyTvO/playlist.m3u80Z5PrT-_SCBdjGy3w/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8?type=live",
-      "logo": "https://i.postimg.cc/D0yFNL18/38265930-ico-(1).png",
+      "name": "Rekan sports 5",
+      "category": "وەرزشی",
+      "url": "http://a83967.xyz:8080/971424234/942337642/380475",
+      "logo": "https://i.postimg.cc/MT3nR1tH/1783989973816.png",
       "order": 5,
       "geoRestriction": "iraq"
     },
     {
-      "name": "rudaw tv",
-      "category": "kurdish chanels",
-      "url": "https://live.rudaw.net/hls/rudaw-tv/master.m3u8",
-      "logo": "https://i.postimg.cc/8567h26T/unnamed-(1).png",
+      "name": "World cup 1",
+      "category": "وەرزشی",
+      "url": "http://a83967.xyz:8080/971424234/942337642/453448",
+      "logo": "https://i.postimg.cc/FsLYddSX/1783990104479.png",
       "order": 6,
       "geoRestriction": "iraq"
     },
     {
-      "name": "k 24",
-      "category": "kurdish chanels",
+      "name": "World cup 2",
+      "category": "وەرزشی",
+      "url": "http://m3u.drm-26.com:80/live/Mkdtv1_061261/4STJysUc/1944358.ts",
+      "logo": "https://i.postimg.cc/SKDRFcBy/1783990775993.png",
+      "order": 7,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "NRT sport",
+      "category": "وەرزشی",
+      "url": "http://a83967.xyz:8080/971424234/942337642/453437",
+      "logo": "https://i.postimg.cc/jdSd30X0/nrt-sport-live-stream-logo.jpg",
+      "order": 8,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Ava sport",
+      "category": "وەرزشی",
+      "url": "https://proxy.eylog.co.uk/142.132.194.230:1935/live/MyTvO/playlist.m3u80Z5PrT-_SCBdjGy3w/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8?type=live",
+      "logo": "https://i.postimg.cc/D0yFNL18/38265930-ico-(1).png",
+      "order": 9,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Spi sports tv",
+      "category": "وەرزشی",
+      "url": "https://live20.bozztv.com/giatv/giatv-spi_sports_hd/spi_sports_hd/chunks.m3u8",
+      "logo": "",
+      "order": 10,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Alwan sport 1",
+      "category": "وەرزشی",
+      "url": "https://super-tv.vercel.app/api/play.m3u8?id=25",
+      "logo": "",
+      "order": 11,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Rudaw tv",
+      "category": "كوردى",
+      "url": "https://live.rudaw.net/hls/rudaw-tv/master.m3u8",
+      "logo": "https://i.postimg.cc/8567h26T/unnamed-(1).png",
+      "order": 12,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "K24 tv",
+      "category": "كوردى",
       "url": "http://goldenfrance.xyz:80/F2DHXN9/X395VBL/804079",
       "logo": "https://i.postimg.cc/sfMkJVxB/sqimg-1774296368888.png",
-      "order": 7,
+      "order": 13,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "WAAR TV",
+      "category": "كوردى",
+      "url": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
+      "logo": "https://i.postimg.cc/XNP2NdVf/images-(18).jpg",
+      "order": 14,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "AVA TV",
+      "category": "كوردى",
+      "url": "https://ava5.store/upload/ava.m3u8",
+      "logo": "https://i.postimg.cc/sD8bLbQs/tnzyl.jpg",
+      "order": 15,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Chanal 8",
+      "category": "كوردى",
+      "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
+      "logo": "https://i.postimg.cc/1zTHRZSt/sqimg-1774296392633.png",
+      "order": 16,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Kurdistan tv",
+      "category": "كوردى",
+      "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
+      "logo": "https://i.postimg.cc/x8mFV1b2/sqimg-1774296462301.png",
+      "order": 17,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Kirkuk tv",
+      "category": "كوردى",
+      "url": "http://a83967.xyz:8080/971424234/942337642/462168",
+      "logo": "https://i.postimg.cc/D0tk1NL9/images-(39).png",
+      "order": 18,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "NRT TV",
+      "category": "كوردى",
+      "url": "https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD.m3u8",
+      "logo": "https://i.postimg.cc/657mCzH1/tnzyl.png",
+      "order": 19,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Kurdsat tv",
+      "category": "كوردى",
+      "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
+      "logo": "https://i.postimg.cc/NGN0KGVs/images-(2).jpg",
+      "order": 20,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Ronahi tv",
+      "category": "كوردى",
+      "url": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
+      "logo": "https://i.postimg.cc/y8T6zVFX/ronahi-(1).png",
+      "order": 21,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Zagros tv",
+      "category": "كوردى",
+      "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
+      "logo": "https://i.postimg.cc/xjb01GKg/unnamed-(2).png",
+      "order": 22,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Iraqia kurdish tv",
+      "category": "كوردى",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
+      "logo": "https://i.postimg.cc/5tRVxjjW/images-(41).png",
+      "order": 23,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "GK tv",
+      "category": "كوردى",
+      "url": "https://live.host247.net/gk/gksat/playlist.m3u8",
+      "logo": "https://i.postimg.cc/fWXNNzNG/channels4-profile-(4).png",
+      "order": 24,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Payam tv",
+      "category": "كوردى",
+      "url": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
+      "logo": "https://i.postimg.cc/zDT9QxwX/images-(43).png",
+      "order": 25,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Zarok tv",
+      "category": "كوردى",
+      "url": "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8",
+      "logo": "https://i.postimg.cc/sXhtsctY/images-(42).jpg",
+      "order": 26,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Afarin tv",
+      "category": "كوردى",
+      "url": "https://65f16f0fdfc51.streamlock.net:443/afarinTV/livestream/playlist.m3u8",
+      "logo": "https://i.postimg.cc/J41d2M4c/images-(56).png",
+      "order": 27,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Shna tv",
+      "category": "كوردى",
+      "url": "http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8",
+      "logo": "https://i.postimg.cc/R03YLdVB/images-(44).png",
+      "order": 28,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Kurd chanal",
+      "category": "كوردى",
+      "url": "https://kurdchhls.wns.live/hls/stream.m3u8",
+      "logo": "https://i.postimg.cc/sgL6xWP9/images-(69).png",
+      "order": 29,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "TRT kurdi",
+      "category": "كوردى",
+      "url": "https://tv-trtkurdi.medya.trt.com.tr/master_1080.m3u8",
+      "logo": "https://i.postimg.cc/c1cFY2Mb/images-(74).png",
+      "order": 30,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Sterk tv",
+      "category": "كوردى",
+      "url": "https://zindi.sterk.tv/live/sterk.m3u8",
+      "logo": "https://i.postimg.cc/Gm4KW20M/sterk-tv.jpg",
+      "order": 31,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "4kurd",
+      "category": "كوردى",
+      "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+      "logo": "https://i.postimg.cc/4y4bB4b3/images-(67).png",
+      "order": 32,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Jin tv",
+      "category": "كوردى",
+      "url": "https://live.jintv.org/medialive/jintv.m3u8",
+      "logo": "https://i.postimg.cc/hvCw05xB/images-(70).png",
+      "order": 33,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Kordmax sorani",
+      "category": "كوردى",
+      "url": "https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8",
+      "logo": "https://i.postimg.cc/sDqHDSJy/images-(47).png",
+      "order": 34,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Kurdmax badini",
+      "category": "كوردى",
+      "url": "https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8",
+      "logo": "https://i.postimg.cc/Xqv1XkhN/images-(46).png",
+      "order": 35,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Kurdmax show",
+      "category": "كوردى",
+      "url": "https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8",
+      "logo": "https://i.postimg.cc/pdYsZSMb/images-(45).png",
+      "order": 36,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Halabja tv",
+      "category": "كوردى",
+      "url": "http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8",
+      "logo": "https://i.postimg.cc/RhRYjYvH/channels4-profile-(8).png",
+      "order": 37,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Mix kurdi",
+      "category": "كوردى",
+      "url": "http://avrstream.com:1935/live/Mix-kurdy/tracks-v1a1/mono.m3u8",
+      "logo": "https://i.postimg.cc/63SJMg5t/images-(82).png",
+      "order": 38,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Khak tv",
+      "category": "كوردى",
+      "url": "https://proxy.eylog.co.uk/http://khakhd.ddns.net:1935/stream/khakhd/playlist.m3u8",
+      "logo": "https://i.postimg.cc/wxC3vbcH/channels4-profile-(7).png",
+      "order": 39,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Walat tv",
+      "category": "كوردى",
+      "url": "https://proxy.eylog.co.uk/http://stream.welattv.net:1935/welat/tv/playlist.m3u8",
+      "logo": "https://i.postimg.cc/L5YRRR0q/images-(81).png",
+      "order": 40,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Nrt 2",
+      "category": "كوردى",
+      "url": "https://stream.camcloud.stream/stream/cfee2866fa7f/playlist.m3u8",
+      "logo": "https://i.postimg.cc/QCGsXvL0/sqimg-1778943217295.jpg",
+      "order": 41,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Next tv",
+      "category": "كوردى",
+      "url": "https://livestream.badinan.xyz/nexttv/FHD/playlist.m3u8",
+      "logo": "",
+      "order": 42,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Med music",
+      "category": "كوردى",
+      "url": "https://hlspackager.akamaized.net/live/DB/MED_MUSIC/HLS/MED_MUSIC-mp4a_128000=20000.m3u8",
+      "logo": "",
+      "order": 43,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Rojhalat tv",
+      "category": "كوردى",
+      "url": "https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8",
+      "logo": "",
+      "order": 44,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Ranya tv",
+      "category": "كوردى",
+      "url": "https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8",
+      "logo": "",
+      "order": 45,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Avar tv",
+      "category": "كوردى",
+      "url": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
+      "logo": "",
+      "order": 46,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Amozhgary tv",
+      "category": "ئایینی",
+      "url": "https://app-live.org/live/3268334b/index.m3u8",
+      "logo": "https://i.postimg.cc/cCsyh3b8/images-(68).png",
+      "order": 47,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Makah tv",
+      "category": "ئایینی",
+      "url": "http://m.live.net.sa:1935/live/quran/chunklist_w739544379.m3u8",
+      "logo": "https://i.postimg.cc/FRb3p5xc/images-(80).png",
+      "order": 48,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "IMK tv",
+      "category": "ئایینی",
+      "url": "http://imkhd.ddns.net:1935/live/imkhd/playlist.m3u8",
+      "logo": "https://i.postimg.cc/K8LbZmBR/images-(77).jpg",
+      "order": 49,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Zhin film",
+      "category": "فلم",
+      "url": "https://183.bozztv.com/giatv/giatv-zhintv/zhintv/playlist.m3u8",
+      "logo": "https://i.postimg.cc/zBq8t4Lv/images-(76).jpg",
+      "order": 50,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Soz movies",
+      "category": "فلم",
+      "url": "https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8",
+      "logo": "https://i.postimg.cc/BZwMMDkD/images-(71).jpg",
+      "order": 51,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Biz cinema",
+      "category": "فلم",
+      "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8",
+      "logo": "https://i.postimg.cc/Z5jcvd8t/images-(58).png",
+      "order": 52,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Moviesphere",
+      "category": "فلم",
+      "url": "https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8",
+      "logo": "https://i.postimg.cc/ZqGyWbMJ/images-(61).png",
+      "order": 53,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Barin movies",
+      "category": "فلم",
+      "url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
+      "logo": "",
+      "order": 54,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "One plus",
+      "category": "فلم",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/oneplus4k/chunks.m3u8",
+      "logo": "",
+      "order": 55,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "One kids",
+      "category": "فلم",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/onekids4k/chunks.m3u8",
+      "logo": "",
+      "order": 56,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Biz tv",
+      "category": "بیانی",
+      "url": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8",
+      "logo": "https://i.postimg.cc/gj9qbqWv/images-(11)-(1).png",
+      "order": 57,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Iraqia tv",
+      "category": "بیانی",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8?sid=rdmcy5e6mok2j3ab",
+      "logo": "https://i.postimg.cc/50LwxYpp/sqimg-1774296335158.png",
+      "order": 58,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "الجزيرة اخبارية",
+      "category": "بیانی",
+      "url": "https://live-hls-web-ajm-bp.thehlive.com/AJM/01.m3u8",
+      "logo": "https://i.postimg.cc/RZJq5rgn/images-(1).jpg",
+      "order": 59,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "الحدث",
+      "category": "بیانی",
+      "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
+      "logo": "https://i.postimg.cc/rwHWxCPz/sqimg-1774296256541.png",
+      "order": 60,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "العربية",
+      "category": "بیانی",
+      "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
+      "logo": "https://i.postimg.cc/9MhDYxtG/sqimg-1774296234479.png",
+      "order": 61,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Mbc 1",
+      "category": "بیانی",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/manifest/video/1080p2400kbps/video.m3u8",
+      "logo": "https://i.postimg.cc/7LDVfNG7/channels4-profile-(5).png",
+      "order": 62,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Mbc 2",
+      "category": "بیانی",
+      "url": "http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8",
+      "logo": "https://i.postimg.cc/L8FkbVTh/sqimg-1778943225502.jpg",
+      "order": 63,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Mbc 3",
+      "category": "بیانی",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+      "logo": "https://i.postimg.cc/q7j8gHd7/images-(3)-(1).png",
+      "order": 64,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Mbc 4",
+      "category": "بیانی",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
+      "logo": "https://i.postimg.cc/qRFyXcR9/images-(52).png",
+      "order": 65,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Mbc action",
+      "category": "بیانی",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd",
+      "logo": "https://i.postimg.cc/YSYW2KZf/channels4-profile-(6).png",
+      "order": 66,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Mbc iraq",
+      "category": "بیانی",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+      "logo": "https://i.postimg.cc/L8Vyk7pH/images-(53).png",
+      "order": 67,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "BBC arabic",
+      "category": "بیانی",
+      "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.mpd",
+      "logo": "https://i.postimg.cc/GtYK4gQq/images-(54).jpg",
+      "order": 68,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "RT arabic",
+      "category": "بیانی",
+      "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8",
+      "logo": "https://i.postimg.cc/m2fVvRZZ/images-(55).jpg",
+      "order": 69,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Carac 1",
+      "category": "بیانی",
+      "url": "https://edge17.vedge.infomaniak.com/livecast/ik:event/chunklist_w1708067297.m3u8",
+      "logo": "https://i.postimg.cc/9Fhtxp1Q/carac1-neg.png",
+      "order": 70,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Carac 2",
+      "category": "بیانی",
+      "url": "https://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1578410584_b3000720.m3u8",
+      "logo": "https://i.postimg.cc/Dz8qWYfB/images-(59).jpg",
+      "order": 71,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Carac 3",
+      "category": "بیانی",
+      "url": "https://edge20.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w238682299_b3000000.m3u8?spark=a321d339-aa6f-4fea-850c-48c7409771d1&token=",
+      "logo": "https://i.postimg.cc/RhQfrkGr/images-(60).png",
+      "order": 72,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "France24",
+      "category": "بیانی",
+      "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8",
+      "logo": "https://i.postimg.cc/zDSRf1S8/images-(63).png",
+      "order": 73,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "TRT arabic",
+      "category": "بیانی",
+      "url": "https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8",
+      "logo": "https://i.postimg.cc/XqVq5pcv/images-(66).png",
+      "order": 74,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "DW arabic",
+      "category": "بیانی",
+      "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8",
+      "logo": "https://i.postimg.cc/YCj48Lc4/images-(65).png",
+      "order": 75,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Nat Geographic",
+      "category": "بیانی",
+      "url": "http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt6pay4eqJAe1qQ04i8t6DvA/m3u8",
+      "logo": "https://i.postimg.cc/8CDRxznT/images-(79).png",
+      "order": 76,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Nat Geo Wild",
+      "category": "بیانی",
+      "url": "http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt1PQqiQDgLAxD1d75EyIG2c/m3u8",
+      "logo": "https://i.postimg.cc/zDPk353x/images-(78).png",
+      "order": 77,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Discovery",
+      "category": "بیانی",
+      "url": "http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltzxACWUzxwwm2a7c-Wn2aKM/m3u8",
+      "logo": "https://i.postimg.cc/L5Zgnc0b/a5898a20-c575-11e8-bccd-5b30791c.png",
+      "order": 78,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Travel",
+      "category": "بیانی",
+      "url": "http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt1hdLkSUqBOSu_vOjrt7G2E/m3u8",
+      "logo": "https://i.postimg.cc/yYcnGt8C/MV5BMz-I4Zj-Ax-Njct-MDUx-NC00Nm-Rm-LTg2.png",
+      "order": 79,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Viasat nature",
+      "category": "بیانی",
+      "url": "http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltz7zqZmsJcEwt6B6uutQ9Hw/m3u8",
+      "logo": "https://i.postimg.cc/jd04ycQC/images-(16)-(1).png",
+      "order": 80,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Viasat history",
+      "category": "بیانی",
+      "url": "http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt5EfdLOzjQcJ5fKT2pTsDfY/m3u8",
+      "logo": "https://i.postimg.cc/2SHW97vG/2296-viasat-history-vest-hd-(1).png",
+      "order": 81,
+      "geoRestriction": "iraq"
+    },
+    {
+      "name": "Animal planet",
+      "category": "بیانی",
+      "url": "http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt2OqJysKdcCmTXNvb0N5pC0/m3u8",
+      "logo": "https://i.postimg.cc/SR7266kc/Animal-Planet-Logo-2006-(1).png",
+      "order": 82,
       "geoRestriction": "iraq"
     }
   ]
