@@ -17,10 +17,10 @@
       "image": "https://i.postimg.cc/hjPsTrR8/1784159743764.png",
       "link": "https://i.postimg.cc/hjPsTrR8/1784159743764.png"
     },
-   { "image": "https://i.postimg.cc/YC05hj5X/1786217067068.png",
+    {
+      "image": "https://i.postimg.cc/YC05hj5X/1786217067068.png",
       "link": "https://i.postimg.cc/hjPsTrR8/1784159743764.png"
     }
-    
   ],
   "mainAd": {
     "initialDelay": 10,
@@ -374,7 +374,7 @@
       "name": "Med music",
       "category": "كوردى",
       "url": "https://hlspackager.akamaized.net/live/DB/MED_MUSIC/HLS/MED_MUSIC-mp4a_128000=20000.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3011/3011124.png",
       "order": 43,
       "geoRestriction": "iraq"
     },
@@ -414,7 +414,7 @@
       "name": "Academy Amozjgari",
       "category": "ئایینی",
       "url": "https://app-live.org/live/a267c1b3/index.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 48,
       "geoRestriction": "iraq"
     },
@@ -422,7 +422,7 @@
       "name": "Eman TV",
       "category": "ئایینی",
       "url": "https://avr.host247.net/live/emantv/playlist.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 49,
       "geoRestriction": "iraq"
     },
@@ -430,7 +430,7 @@
       "name": "Farmoda TV",
       "category": "ئایینی",
       "url": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 50,
       "geoRestriction": "iraq"
     },
@@ -446,7 +446,7 @@
       "name": "IMK Quran",
       "category": "ئایینی",
       "url": "http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 52,
       "geoRestriction": "iraq"
     },
@@ -454,7 +454,7 @@
       "name": "Esra TV 1",
       "category": "ئایینی",
       "url": "https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 53,
       "geoRestriction": "iraq"
     },
@@ -462,7 +462,7 @@
       "name": "Esra TV 2",
       "category": "ئایینی",
       "url": "https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 54,
       "geoRestriction": "iraq"
     },
@@ -470,7 +470,7 @@
       "name": "Esra Quran HD",
       "category": "ئایینی",
       "url": "https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/chunks.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 55,
       "geoRestriction": "iraq"
     },
@@ -478,7 +478,7 @@
       "name": "Spi Quran",
       "category": "ئایینی",
       "url": "https://183.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/playlist.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 56,
       "geoRestriction": "iraq"
     },
@@ -486,7 +486,7 @@
       "name": "MMN Quran",
       "category": "ئایینی",
       "url": "http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 57,
       "geoRestriction": "iraq"
     },
@@ -494,7 +494,7 @@
       "name": "Barin Quran",
       "category": "ئایینی",
       "url": "http://baskhd.ddns.net:40/live/QURANHDTV/mono.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 58,
       "geoRestriction": "iraq"
     },
@@ -502,7 +502,7 @@
       "name": "Dekan Quran",
       "category": "ئایینی",
       "url": "https://live20.bozztv.com/giatv/giatv-dekanquran/dekanquran/chunks.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 59,
       "geoRestriction": "iraq"
     },
@@ -510,7 +510,7 @@
       "name": "Ashti Quran",
       "category": "ئایینی",
       "url": "http://avrstream.com:1935/live/AshtiTV/playlist.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 60,
       "geoRestriction": "iraq"
     },
@@ -518,7 +518,7 @@
       "name": "Mihrab TV",
       "category": "ئایینی",
       "url": "http://bblserver.ddns.net:1935/live/mihrabfm/playlist.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 61,
       "geoRestriction": "iraq"
     },
@@ -526,7 +526,7 @@
       "name": "Soz Quran",
       "category": "ئایینی",
       "url": "http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 62,
       "geoRestriction": "iraq"
     },
@@ -534,7 +534,7 @@
       "name": "Soz TV",
       "category": "ئایینی",
       "url": "https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 63,
       "geoRestriction": "iraq"
     },
@@ -542,7 +542,7 @@
       "name": "Speda TV",
       "category": "ئایینی",
       "url": "https://speda01.site/upload/images/spedahd.m3u8",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/e/e6/Speda_TV_logo.png",
       "order": 64,
       "geoRestriction": "iraq"
     },
@@ -550,7 +550,7 @@
       "name": "Rawshan TV",
       "category": "ئایینی",
       "url": "http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 65,
       "geoRestriction": "iraq"
     },
@@ -558,7 +558,7 @@
       "name": "Saudi Quran",
       "category": "ئایینی",
       "url": "https://win.holol.com/live/quran/playlist.m3u8",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Saudi_Quran_TV_Logo.svg/512px-Saudi_Quran_TV_Logo.svg.png",
       "order": 66,
       "geoRestriction": "iraq"
     },
@@ -566,7 +566,7 @@
       "name": "Saudi Sunnah",
       "category": "ئایینی",
       "url": "https://win.holol.com/live/sunnah/playlist.m3u8",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Saudi_Sunnah_TV_Logo.svg/512px-Saudi_Sunnah_TV_Logo.svg.png",
       "order": 67,
       "geoRestriction": "iraq"
     },
@@ -574,7 +574,7 @@
       "name": "Islamic Media 1",
       "category": "ئایینی",
       "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3596/3596095.png",
       "order": 68,
       "geoRestriction": "iraq"
     },
@@ -582,7 +582,7 @@
       "name": "KSA Quran Radio",
       "category": "ئایینی",
       "url": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3858/3858717.png",
       "order": 69,
       "geoRestriction": "iraq"
     },
@@ -630,7 +630,7 @@
       "name": "Barin movies",
       "category": "فلم",
       "url": "https://cdn.karwan.tv/barin-movies/index.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3172/3172569.png",
       "order": 75,
       "geoRestriction": "iraq"
     },
@@ -638,7 +638,7 @@
       "name": "One plus",
       "category": "فلم",
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/oneplus4k/chunks.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3172/3172569.png",
       "order": 76,
       "geoRestriction": "iraq"
     },
@@ -646,7 +646,7 @@
       "name": "One kids",
       "category": "فلم",
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/onekids4k/chunks.m3u8",
-      "logo": "",
+      "logo": "https://cdn-icons-png.flaticon.com/512/3094/3094132.png",
       "order": 77,
       "geoRestriction": "iraq"
     },
